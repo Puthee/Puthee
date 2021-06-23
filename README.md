@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Puthee
-- 👀 I’m interested in reading books, painting 
-- 🌱 I’m currently learning debating 
-- 💞️ I’m looking to collaborate on paintings, debates 
+- 👀 I’m interested in reading books, painting, coding  
+- 🌱 I’m currently learning debating and coding 
+- 💞️ I’m looking to collaborate on API
 - 📫 How to reach me nusratputhee@gmail.com
 
 <!---
